@@ -52,6 +52,23 @@ Once the virtual machine starts, the project is ready to be checked.
 
 ---
 
+### operating system ?
+
+- cat /etc/os-release
+
+### Graphical environment ?
+
+- systemctl get-default
+
+### Display VM partitions.
+
+- lsblk
+
+### SSH cannot be used with the "root"
+
+- sudo nano /etc/ssh/sshd_config
+- PermitRootLogin no
+
 ## Required Comparisons
 
 ### Operating System Choice
