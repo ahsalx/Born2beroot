@@ -187,10 +187,3 @@ All decisions were made to keep the system simple, secure, and compliant with th
 ## 🤖 AI Usage
 
 AI tools were used to help me understand concepts such as firewalls, UFW, and Linux security mechanisms.
-
-All configurations and decisions were implemented and understood by me.
-
----
-
-✅ **Project Status:** Ready for evaluation  
-🎓 **School:** 42
